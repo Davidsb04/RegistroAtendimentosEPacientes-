@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Security.Cryptography;
 using System.Text.RegularExpressions;
 
-namespace gsdggs
+namespace ClinicaCDI
 {
     internal class Program
     {
